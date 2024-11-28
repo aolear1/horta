@@ -1,2 +1,2 @@
 # horta
-Hella Optimized Realeaux Triangle Algorithm
+Totally Optimized Realeaux Triangle Algorithm
